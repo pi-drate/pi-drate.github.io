@@ -1,10 +1,12 @@
 ## The Pi-Drate Official Website
 
-You can use the [editor on GitHub](https://github.com/pi-drate/EcoMonitor/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This repository contains the source code for the [pi-drate website](https://pi-drate.github.io/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Resources
 
-### Markdown
+The website uses [GitHub Pages](https://docs.github.com/en/pages) and [Jekyll](https://jekyllrb.com/) to build the pages in the site, from the content in Markdown and HTML files.
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
