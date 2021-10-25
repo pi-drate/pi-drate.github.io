@@ -8,4 +8,4 @@ include_in_header: false
 October 23 2021
 
 # Source Code
-All source code for the app and website is avaliable on [GitHub](https://github.com/pi-drate/EcoMonitor).
+All source code for the app and website is available on [GitHub](https://github.com/pi-drate/EcoMonitor).
