@@ -4,8 +4,7 @@ This repository contains the source code for the [pi-drate website](https://pi-d
 
 ### Resources
 
-The website uses [GitHub Pages](https://docs.github.com/en/pages) and [Jekyll](https://jekyllrb.com/) to build the pages in the site, from the content in Markdown and HTML files.
-
+The website uses [GitHub Pages](https://docs.github.com/en/pages) and [Jekyll](https://jekyllrb.com/) to build the pages in the site, from the content in Markdown and HTML files. The design for this site is based on Emil Baehr's [Automatic App Landing Page](https://github.com/emilbaehr/automatic-app-landing-page) template.
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
