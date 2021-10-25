@@ -1,4 +1,4 @@
-## Pi-Drate Official Website
+## The pi-drate Official Website
 
 You can use the [editor on GitHub](https://github.com/pi-drate/EcoMonitor/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
