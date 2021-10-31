@@ -13,10 +13,10 @@ Pi-Drate is an open-source project, as part of a submission for the [2022 PA Ras
 
 
 <p float="left">
-  <img src="/assets/partners/pa_pi.png" width="100" />
-  <img src="/assets/partners/aru.png" width="100" />
-  <img src="/assets/partners/the_economist.png" width="100" />
-  <img src="/assets/partners/nationwide.png" width="100" />
-  <img src="/assets/partners/rentokil_initial.png" width="100" />
-  <img src="/assets/partners/rolls_royce.png" width="100" />
+  <img src="/assets/partners/pa_pi.png" width="300" />
+  <img src="/assets/partners/aru.png" width="300" />
+  <img src="/assets/partners/the_economist.png" width="300" />
+  <img src="/assets/partners/nationwide.png" width="300" />
+  <img src="/assets/partners/rentokil_initial.png" width="300" />
+  <img src="/assets/partners/rolls_royce.png" width="300" />
 </p>
