@@ -11,10 +11,10 @@ The need for efficiency in agriculture has never been more pressing than now, wi
 
 ## Our Solution
 
-
-information about the product
-add photo of final design
-include YouTube video of product
+TODO:
+- information about the product
+- add photo of final design
+- include YouTube video of product
 
 The quick, brown fox jumps over a lazy dog. DJs flock by when MTV axe quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz.
 
