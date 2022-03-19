@@ -2,7 +2,7 @@
 
 This repository contains the source code for the [Pi-Drate](https://pi-drate.github.io/) website.
 
-![image](https://user-images.githubusercontent.com/66517600/138744760-f5d68af2-4ebf-4bb3-a650-21792d7578c3.png)
+![image](https://user-images.githubusercontent.com/66517600/159134026-5279258c-0cbe-428a-80ab-ce0f5dd7088e.png)
 
 ## Contributions
 
