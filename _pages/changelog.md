@@ -11,7 +11,15 @@ include_in_header: true
 
 ### `Latest`
 
-## Version 1.0
+## Version 2
+# Whats new:
+- The bluetooth connection is now smoother
+- BME280 works and data can be seen in the 'Pi Data' section of the app
+- In development:
+  - Fields and graphing for BME280 data
+  - Soil moisture sensor functionality
+
+## Version 1
 This is the first version of the app to be put online.
 
 # Whats new:
