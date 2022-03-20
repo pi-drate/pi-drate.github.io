@@ -6,7 +6,7 @@ ios_app_id                                : 1234793120
 ios_app_country                           : gb
 
 appstore_link                             :
-playstore_link                            : https://github.com/pi-drate/EcoMonitor/zipball/main
+playstore_link                            : https://github.com/henry314159/EcoMonitor4/releases/download/v4/EcoMonitor.apk
 presskit_download_link                    : 
 
 
@@ -70,8 +70,8 @@ your_link                                 :
 your_city                                 :                             
 email_address                             : sophieoztoprak@gmail.com
 facebook_username                         :                                           
-instagram_username                        : ebaehr
-twitter_username                          : ebaehr
+instagram_username                        : 
+twitter_username                          : 
 github_username                           : pi-drate
 youtube_username                          : Sophie Oztoprak
 
