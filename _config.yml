@@ -38,24 +38,24 @@ features                                  :
     description                           : The wheels have ridges inside that grip well to soil, allowing the robot to better withstand farm conditions.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Relatively cheap for purpose
+    description                           : The EcoMonitor, made in a budget of under £100, has a high reward for cost, given the amount of water it plans to save.
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Clear data form
+    description                           : The data is given in both a graphical form for soil moisture and numerical form for other factors, making it easy to read.
     fontawesome_icon_name                 : star
 
-  - title                                 : 
-    description                           : Display a smart app banner on iOS devices.
+  - title                                 : Website
+    description                           : We have an easy to use website where you can easily contact us.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Saving water has other effects
+    description                           : By saving water, we are ensuring crops grow properly, preventing socioeconomic impacts like famine and low crop yield.
     fontawesome_icon_name                 : link
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Data is given conveniently
+    description                           : The farmer can access a host of different types of data from the app with a few easy clicks. This makes farming easier and more efficient.
     fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
