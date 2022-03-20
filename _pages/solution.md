@@ -14,9 +14,8 @@ The need for efficiency in agriculture has never been more pressing than now, wi
 Our product is designed to allow farmers to gain a greater, in-depth knowledge about what exactly is going on in their soil. By allowing farmers to know exactly whether or not their soil is saturated with enough water, they are then less likely to over-irrigate and overextract ground water sources.
 The EcoMonitor will travel across farmland, prodding a soil-moisture sensor into the soil at different intervals using a rotary to linear motion mechanism which looks something like this:
 
+![lowering mechanism](Photo-Oztoprak-663,530,473.890823.jpg)
 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 Testing YouTube embed:
 
