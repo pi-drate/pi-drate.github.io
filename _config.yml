@@ -26,16 +26,16 @@ features                                  :
     description                           : The short delay between collecting and displaying the data makes all farmers happy :)
     fontawesome_icon_name                 : magic
     
-  - title                                 : Soil moisture
-    description                           : Knowledge about one's soil moisture will allow all farmers to
+  - title                                 : App
+    description                           : The app has an easy user-interface that should be accessible to everyone regardless of technological experience.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Multitude of environmental assessments
+    description                           : The app isn't only restricted to soil moisture, but also temperature, humidity and pressure.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Ability to treck on soil
+    description                           : The wheels have ridges inside that grip well to soil, allowing the robot to better withstand farm conditions.
     fontawesome_icon_name                 : sync
 
   - title                                 : Easy to Tweak
