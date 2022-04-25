@@ -44,7 +44,7 @@ features                                  :
   
   - title                                 : Clear data form
     description                           : The data is given in both a graphical form for soil moisture and numerical form for other factors, making it easy to read.
-    fontawesome_icon_name                 : bar-chart
+    fontawesome_icon_name                 : chart-line
 
   - title                                 : Website
     description                           : We have an easy to use website where you can easily contact us.
