@@ -40,7 +40,7 @@ features                                  :
 
   - title                                 : Relatively cheap for purpose
     description                           : The EcoMonitor, made in a budget of under £100, has a high reward for cost, given the amount of water it plans to save.
-    fontawesome_icon_name                 : fa-money
+    fontawesome_icon_name                 : dollar-sign
   
   - title                                 : Clear data form
     description                           : The data is given in both a graphical form for soil moisture and numerical form for other factors, making it easy to read.
