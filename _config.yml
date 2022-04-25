@@ -36,7 +36,7 @@ features                                  :
 
   - title                                 : Ability to treck on soil
     description                           : The wheels have ridges inside that grip well to soil, allowing the robot to better withstand farm conditions.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : tire-rugged
 
   - title                                 : Relatively cheap for purpose
     description                           : The EcoMonitor, made in a budget of under £100, has a high reward for cost, given the amount of water it plans to save.
