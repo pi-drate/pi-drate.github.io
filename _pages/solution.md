@@ -17,8 +17,8 @@ The EcoMonitor will travel across farmland, prodding a soil-moisture sensor into
 ![lowering mechanism](/Photo-Oztoprak-663%2C530%2C473.890823.jpg)
 
 This will then provide data that will transfer to the app installed on the farmer's phone. The farmer now has access to more information about his farm without even stepping outside! This increase in environmental data should allow the farmer to make more rationa decision when irrigating their farm. This solution would work particularly well outside of the UK in areas such as the Middle East and North Africa - the most water scarce region in the world.
-Testing YouTube embed:
 
+Here is our video:
 
 <iframe width="800" height="400" src="https://www.youtube-nocookie.com/embed/LIaHkp802dM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
