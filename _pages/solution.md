@@ -20,7 +20,7 @@ This will then provide data that will transfer to the app installed on the farme
 
 Here is our video:
 
-<iframe width="750" height="400" src="https://www.youtube-nocookie.com/embed/LIaHkp802dM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="400" src="https://www.youtube-nocookie.com/embed/LIaHkp802dM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 [About Us](./about)
