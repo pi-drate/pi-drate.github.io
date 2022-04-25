@@ -24,7 +24,7 @@ features                                  :
 
   - title                                 : Instant data collection
     description                           : The short delay between collecting and displaying the data makes all farmers happy :)
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : database
     
   - title                                 : App
     description                           : The app has an easy user-interface that should be accessible to everyone regardless of technological experience.
@@ -32,7 +32,7 @@ features                                  :
 
   - title                                 : Multitude of environmental assessments
     description                           : The app isn't only restricted to soil moisture, but also temperature, humidity and pressure.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : envira
 
   - title                                 : Ability to treck on soil
     description                           : The wheels have ridges inside that grip well to soil, allowing the robot to better withstand farm conditions.
@@ -40,27 +40,24 @@ features                                  :
 
   - title                                 : Relatively cheap for purpose
     description                           : The EcoMonitor, made in a budget of under £100, has a high reward for cost, given the amount of water it plans to save.
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : money
   
   - title                                 : Clear data form
     description                           : The data is given in both a graphical form for soil moisture and numerical form for other factors, making it easy to read.
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : bar-chart
 
   - title                                 : Website
     description                           : We have an easy to use website where you can easily contact us.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+    fontawesome_icon_name                 : phone
 
   - title                                 : Saving water has other effects
     description                           : By saving water, we are ensuring crops grow properly, preventing socioeconomic impacts like famine and low crop yield.
-    fontawesome_icon_name                 : link
+    fontawesome_icon_name                 : tint
 
   - title                                 : Data is given conveniently
     description                           : The farmer can access a host of different types of data from the app with a few easy clicks. This makes farming easier and more efficient.
     fontawesome_icon_name                 : info-circle
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
