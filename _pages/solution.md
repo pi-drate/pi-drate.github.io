@@ -24,3 +24,10 @@ Here is our video:
 
 ## The Team
 
+<img src="Photo-Oztoprak-663%2C530%2C473.890823.jpg" alt="Avatar">
+img {
+  border-radius: 50%;
+}
+
+
+
