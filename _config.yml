@@ -32,7 +32,7 @@ features                                  :
 
   - title                                 : Multitude of environmental assessments
     description                           : The app isn't only restricted to soil moisture, but also temperature, humidity and pressure.
-    fontawesome_icon_name                 : envira
+    fontawesome_icon_name                 : seedling
 
   - title                                 : Ability to treck on soil
     description                           : The wheels have ridges inside that grip well to soil, allowing the robot to better withstand farm conditions.
