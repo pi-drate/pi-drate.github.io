@@ -24,10 +24,6 @@ Here is our video:
 
 ## The Team
 ![nigel](https://user-images.githubusercontent.com/66517600/165625077-07b0153f-5eb4-475b-b62c-b4af64e0e71e.jpg)
-Nigel
-
 ![sophie](https://user-images.githubusercontent.com/66517600/165625082-f282f797-9ceb-4227-aeb1-d7ee6abed49f.jpg)
-Sophie
-
 ![henry](https://user-images.githubusercontent.com/66517600/165625042-41580f9f-5645-4147-80a7-5c771c369e30.jpg)
-Henry
+Nigel Sophie Henry
