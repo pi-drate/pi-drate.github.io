@@ -24,6 +24,11 @@ Here is our video:
 
 ## The Team
 ![nigel_updated](https://user-images.githubusercontent.com/66517600/165692681-56458673-336a-487d-b69b-81070cc4d53b.jpg)
+
 ![sophie](https://user-images.githubusercontent.com/66517600/165625082-f282f797-9ceb-4227-aeb1-d7ee6abed49f.jpg)
 ![henry](https://user-images.githubusercontent.com/66517600/165625042-41580f9f-5645-4147-80a7-5c771c369e30.jpg)
-
+&nbsp;&nbsp;
+<figure>
+<img src="https://images.unsplash.com/photo-1549740425-5e9ed4d8cd34?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwzOTU0NTB8fGVufDB8fHw%3D&w=1000&q=80" alt="Trulli" style="width:100%">
+<figcaption align = "center"><b>Fig.1 - 4K Mountains Wallpaper</b></figcaption>
+</figure>
