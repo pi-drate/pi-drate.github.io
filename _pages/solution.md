@@ -23,19 +23,7 @@ Here is our video:
 <iframe width="720" height="400" src="https://www.youtube-nocookie.com/embed/LIaHkp802dM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## The Team
-![nigel_updated](https://user-images.githubusercontent.com/66517600/165692681-56458673-336a-487d-b69b-81070cc4d53b.jpg)
-&nbsp;&nbsp;
-![sophie](https://user-images.githubusercontent.com/66517600/165625082-f282f797-9ceb-4227-aeb1-d7ee6abed49f.jpg)
-&nbsp;&nbsp;
-![henry](https://user-images.githubusercontent.com/66517600/165625042-41580f9f-5645-4147-80a7-5c771c369e30.jpg)
 
-
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
-![](https://user-images.githubusercontent.com/66517600/165692681-56458673-336a-487d-b69b-81070cc4d53b.jpg)  |  ![](https://user-images.githubusercontent.com/66517600/165625082-f282f797-9ceb-4227-aeb1-d7ee6abed49f.jpg) | ![henry](https://user-images.githubusercontent.com/66517600/165625042-41580f9f-5645-4147-80a7-5c771c369e30.jpg)
+![Nigel](https://user-images.githubusercontent.com/66517600/165692681-56458673-336a-487d-b69b-81070cc4d53b.jpg)  |  ![Sophie](https://user-images.githubusercontent.com/66517600/165625082-f282f797-9ceb-4227-aeb1-d7ee6abed49f.jpg) | ![Henry](https://user-images.githubusercontent.com/66517600/165625042-41580f9f-5645-4147-80a7-5c771c369e30.jpg)
 :-------------------------:|:-------------------------:|:-------------------------:
 Nigel             | Sophie             | Henry
