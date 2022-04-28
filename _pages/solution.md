@@ -30,17 +30,17 @@ Here is our video:
 ![henry](https://user-images.githubusercontent.com/66517600/165625042-41580f9f-5645-4147-80a7-5c771c369e30.jpg)
 
 <figure>
-<img src="https://user-images.githubusercontent.com/66517600/165692681-56458673-336a-487d-b69b-81070cc4d53b.jpg" alt="Trulli" style="width:100%">
+<img src="https://user-images.githubusercontent.com/66517600/165692681-56458673-336a-487d-b69b-81070cc4d53b.jpg" alt="Trulli">
 <figcaption align = "center"><b>Fig.1 - 4K Mountains Wallpaper</b></figcaption>
 </figure>
 
 <figure>
-<img src="https://user-images.githubusercontent.com/66517600/165625082-f282f797-9ceb-4227-aeb1-d7ee6abed49f.jpg" alt="Trulli" style="width:100%">
+<img src="https://user-images.githubusercontent.com/66517600/165625082-f282f797-9ceb-4227-aeb1-d7ee6abed49f.jpg" alt="Trulli">
 <figcaption align = "center"><b>Fig.1 - 4K Mountains Wallpaper</b></figcaption>
 </figure>
 
 <figure>
-<img src="https://user-images.githubusercontent.com/66517600/165625042-41580f9f-5645-4147-80a7-5c771c369e30.jpg" alt="Trulli" style="width:100%">
+<img src="https://user-images.githubusercontent.com/66517600/165625042-41580f9f-5645-4147-80a7-5c771c369e30.jpg" alt="Trulli">
 <figcaption align = "center"><b>Fig.1 - 4K Mountains Wallpaper</b></figcaption>
 </figure>
 
