@@ -10,6 +10,7 @@ include_in_header: true
 
 ### `Latest`
 # **Version 2.0**
+Construction of the robot is almost complete, so we intend to allow users to have full access to all monitoring data.
 
 #### What's New
 - Allow direct manual control of motors via Bluetooth
