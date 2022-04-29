@@ -11,6 +11,13 @@ include_in_header: true
 
 ### `Latest`
 
+## Version 3
+# Whats new:
+- Added motor functionality in 'Pi Data' section
+- In development:
+  - Fields and graphing/storing of BME280 data
+  - Soil moisture sensor functionality
+
 ## Version 2
 # Whats new:
 - The bluetooth connection is now smoother
@@ -18,6 +25,7 @@ include_in_header: true
 - In development:
   - Fields and graphing for BME280 data
   - Soil moisture sensor functionality
+  - Motor functionality
 
 ## Version 1
 This is the first version of the app to be put online.
