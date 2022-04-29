@@ -25,6 +25,7 @@ ________
 
 ### `Initial Release`
 # **Version 1.0**
+This release contains the basic framework for the app which we intend to improve on in the following months. Plans are in progress to start working on getting motor to work directly from the app.
 
 <br>
 
