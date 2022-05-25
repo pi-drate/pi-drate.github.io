@@ -24,6 +24,6 @@ Here is our video:
 
 ## The Team
 
-![Nigel](https://user-images.githubusercontent.com/66517600/165692681-56458673-336a-487d-b69b-81070cc4d53b.jpg)  |  ![Sophie](https://user-images.githubusercontent.com/66517600/165625082-f282f797-9ceb-4227-aeb1-d7ee6abed49f.jpg) | ![Henry](![henry](https://user-images.githubusercontent.com/66517600/170293391-fd6cd5e5-8f52-4542-8d9b-70131e9f58eb.png)
+![Nigel](https://user-images.githubusercontent.com/66517600/165692681-56458673-336a-487d-b69b-81070cc4d53b.jpg)  |  ![Sophie](https://user-images.githubusercontent.com/66517600/165625082-f282f797-9ceb-4227-aeb1-d7ee6abed49f.jpg) | ![Henry](https://user-images.githubusercontent.com/66517600/170293810-cecece33-d483-4a85-9868-2bd1ba996b2a.png)
 :-------------------------:|:-------------------------:|:-------------------------:
 Nigel             | Sophie             | Henry
