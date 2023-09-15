@@ -24,6 +24,6 @@ Here is our video:
 
 ## The Team
 
-![Henry](https://user-images.githubusercontent.com/66517600/171958283-f1b763f5-9593-4140-bf81-85ed7a7ceace.jpg)  |  ![Henry](https://user-images.githubusercontent.com/66517600/171958382-5c7c0d9b-40bd-40f6-b873-62632191382b.jpg) | ![Henry](https://user-images.githubusercontent.com/66517600/170293810-cecece33-d483-4a85-9868-2bd1ba996b2a.png)
+![Henry](https://user-images.githubusercontent.com/66517600/171958283-f1b763f5-9593-4140-bf81-85ed7a7ceace.jpg)  |  ![Henry](https://user-images.githubusercontent.com/66517600/171958382-5c7c0d9b-40bd-40f6-b873-62632191382b.jpg) | ![Nigel](https://github.com/pi-drate/pi-drate.github.io/assets/66517600/46bcb787-ecd8-4726-b10b-5bc69f1adbd0)
 :-------------------------:|:-------------------------:|:-------------------------:
-Henry             | Henry             | Henry
+Henry             | Henry             | Nigel
